@@ -1,6 +1,6 @@
 h1{
 	font-weight: bold;
-	font-size:200%;
+	font-size:22px;
 	color: black;
 	text-align: center;
 	font-family: sans-serif;
@@ -16,11 +16,11 @@ p{
 }
 body{
 	background-color:white;
-	font-size:100%;
+	font-size:16px;
 }
 
 .heading h3{
-	font-size:150%;
+	font-size:19px;
 	width: 5em;
 	position: relative;
 	top:0px;
